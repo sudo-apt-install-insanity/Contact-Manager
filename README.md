@@ -1,5 +1,7 @@
 # CONTACT MANAGEMENT SYSTEM
 
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+
 **FEATURES**
 
 - __ADD CONTACTS__
